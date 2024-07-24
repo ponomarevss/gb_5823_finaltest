@@ -4,6 +4,7 @@
 Задания в этом разделе представлены по двум ссылкам:
 1. https://gbcdn.mrgcdn.ru/uploads/asset/5625406/attachment/8040cff7978af8f2737c6565db93d971.docx
 2. https://gbcdn.mrgcdn.ru/uploads/asset/4868005/attachment/1f0bfdadc1c954fc748a4890b644e605.pdf
+
 Задания имеют некоторые различия. Работа выполнена по документу по ссылке 1.
 
 ### Операционные системы и виртуализация (Linux). Задачи 1-5.
