@@ -1,0 +1,16 @@
+    1  cat > Pets.txt
+    2  cat > PackAnimals.txt
+    3  cat Pets.txt PackAnimals.txt > Animals.txt
+    4  more Animals.txt 
+    5  mv Animals.txt HumanFriends.txt
+    6  ls
+    7  mkdir Animals
+    8  mv HumanFriends.txt Animals/
+    9  sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ jammy mysql-8.0 mysql-tools'
+   10  sudo apt update
+   11  sudo apt install mysql-server
+   12  sudo apt-get download cowsay
+   13  sudo dpkg -i cowsay_3.03+dfsg2-8_all.deb
+   14  sudo dpkg -r cowsay
+   15  history > PonomarevSS_16072024_5823.txt
+
